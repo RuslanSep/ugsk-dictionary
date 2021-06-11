@@ -1,0 +1,58 @@
+[
+    {
+        "name" : "jpegPhoto",
+        "required" : true,
+        "label" : "",
+        "align" : "left",
+        "field" :"jpegPhoto",
+        "sortable" :false
+    },
+    {
+        "name" : "Name",
+        "required" : true,
+        "label" : "ФИО",
+        "align" : "left",
+        "field" :"Name",
+        "sortable" :true
+    },
+    {
+        "name" : "OfficePhone",
+        "required" : false,
+        "label" : "Офисный телефон",
+        "align" : "left",
+        "field" :"OfficePhone",
+        "sortable" :true
+    },
+    {
+        "name" : "mail",
+        "required" : false,
+        "label" : "Почта",
+        "align" : "left",
+        "field" :"mail",
+        "sortable" :true
+    },
+    {
+        "name" : "Title",
+        "required" : true,
+        "label" : "Должность",
+        "align" : "left",
+        "field" :"Title",
+        "sortable" :true
+    },
+    {
+        "name" : "OU",
+        "required" : false,
+        "label" : "Город",
+        "align" : "left",
+        "field" :"OU",
+        "sortable" :true
+    },
+    {
+        "name" : "Department",
+        "required" : true,
+        "label" : "Подразделение",
+        "align" : "left",
+        "field" :"Department",
+        "sortable" :true
+    }
+]

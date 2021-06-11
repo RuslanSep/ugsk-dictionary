@@ -1,0 +1,51 @@
+[
+    {
+        "name" : "id",
+        "required" : true,
+        "label" : "id",
+        "align" : "left",
+        "field" :"id"
+    },
+    {
+        "name" : "City",
+        "required" : true,
+        "label" : "Город",
+        "align" : "left",
+        "field" :"City"
+    },
+    {
+        "name" : "Ipv4",
+        "required" : true,
+        "label" : "Ipv4 адрес",
+        "align" : "left",
+        "field" :"Ipv4"
+    },
+    {
+        "name" : "MAC",
+        "required" : true,
+        "label" : "MAC адрес",
+        "align" : "left",
+        "field" :"MAC"
+    },
+    {
+        "name" : "time",
+        "required" : true,
+        "label" : "Время запроса",
+        "align" : "left",
+        "field" :"time"
+    },
+    {
+        "name" : "type",
+        "required" : true,
+        "label" : "Тип запроса",
+        "align" : "left",
+        "field" :"type"
+    },
+    {
+        "name" : "state",
+        "required" : true,
+        "label" : "Статус",
+        "align" : "left",
+        "field" :"state"
+    }
+]
